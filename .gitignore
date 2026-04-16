@@ -1,0 +1,13 @@
+# Secrets — never commit these
+.env
+.env.local
+.env.production
+
+# Dependencies
+node_modules/
+
+# Build output
+.vercel/
+dist/
+Disszertáció Final\!.pdf
+*.min.js
